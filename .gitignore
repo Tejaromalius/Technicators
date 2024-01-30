@@ -1,0 +1,7 @@
+# file
+poetry.lock
+
+# directory
+dist/
+.venv/
+**/__pycache__/**
